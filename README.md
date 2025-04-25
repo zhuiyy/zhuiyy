@@ -5,7 +5,7 @@ I'm Zhuiy who can be find at [BiliBili](https://space.bilibili.com/492975677?spm
 - 🔭 I'm currently working on Me-with-a-big-big-band-of-crabs, on which currently I'm working.
 - 🌱 I'm currently learning math, alas.
 - 💬 Ask me about me.
-- 📫 How to reach me: I do have a email address. 
+- 📫 How to reach me: I do have an email address. 
 - 😄 Pronouns: call me Zhuiy.
 - ⚡ Fun fact: [This](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs/tree/Laugh-Love-up-luck-truck-and-so-on/%E7%B1%BBGEB%E7%AC%91%E8%AF%9D/Brain) is a fun fact.
 

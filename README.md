@@ -7,7 +7,7 @@ I'm Zhuiy who can be find at [BiliBili](https://space.bilibili.com/492975677?spm
 - 💬 Ask me about me.
 - 📫 How to reach me: I do have a email address. 
 - 😄 Pronouns: call me Zhuiy.
-- ⚡ Fun fact: This is a fun fact.
+- ⚡ Fun fact: [This](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs/tree/Laugh-Love-up-luck-truck-and-so-on/%E7%B1%BBGEB%E7%AC%91%E8%AF%9D/Brain) is a fun fact.
 
 # 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuiyy)](https://github.com/anuraghazra/github-readme-stats)

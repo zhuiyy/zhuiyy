@@ -11,3 +11,4 @@ I'm Zhuiy who can be find at [BiliBili](https://space.bilibili.com/492975677?spm
 
 # 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuiyy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuiyy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

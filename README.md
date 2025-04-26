@@ -2,7 +2,7 @@
 
 I'm Zhuiy who can be find at [BiliBili](https://space.bilibili.com/492975677?spm_id_from=333.1007.0.0 'for fun videos'), [Netease music](https://music.163.com/#/artist?id=33216546 'for music'). Usually my name won't change a lot.
 
-- 🔭 I'm currently working on Me-with-a-big-big-band-of-crabs, on which currently I'm working.
+- 🔭 I'm currently working on Me-with-a-big-big-band-of-crabs[🦀](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs).
 - 🌱 I'm currently learning math, alas.
 - 💬 Ask me about me.
 - 📫 How to reach me: I do have an email address. 

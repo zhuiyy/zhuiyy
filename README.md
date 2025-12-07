@@ -6,9 +6,5 @@ I'm Zhuiy. You can find me by searching this weird name at [BiliBili](https://sp
 - 👨‍💻 I'm currently learning math/statistics.
 - 💬 Ask me about me.
 - 📫 How to reach me: Astrology 
-- ⚡ Fun fact: [This](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs/tree/Laugh-Love-up-luck-truck-and-so-on/%E7%B1%BBGEB%E7%AC%91%E8%AF%9D/Brain) is a fun fact.
-
-# 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuiyy)](https://github.com/anuraghazra/github-readme-stats)
-#
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuiyy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 🐶 Fun fact: [This](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs/tree/Laugh-Love-up-luck-truck-and-so-on/%E7%B1%BBGEB%E7%AC%91%E8%AF%9D/Brain) is a fun fact.
+- 🎵 Music: Explore my [musical memory](https://zhuiyy.github.io/My-Discs/web/index.html)

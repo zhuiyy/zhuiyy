@@ -7,4 +7,4 @@ I'm Zhuiy. You can find me by searching this weird name at [BiliBili](https://sp
 - 💬 Ask me about me.
 - 📫 How to reach me: Astrology 
 - 🐶 Fun fact: [This](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs/tree/Laugh-Love-up-luck-truck-and-so-on/%E7%B1%BBGEB%E7%AC%91%E8%AF%9D/Brain) is a fun fact.
-- 🎵 Music: My [musical memory](https://zhuiyy.github.io/My-Discs/web/index.html)
+- 🎵 Music: My [memory of music](https://zhuiyy.github.io/My-Discs/web/index.html)

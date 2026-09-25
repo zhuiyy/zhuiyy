@@ -2,6 +2,7 @@
 
 I'm Zhuiy. You can find me by searching this weird name at [BiliBili](https://space.bilibili.com/492975677?spm_id_from=333.1007.0.0 'for fun videos'), [Netease music](https://music.163.com/#/artist?id=33216546 'for music')... The names could be slightly different with more or less 'y' at the end.
 
+- 🏠 My [home page](https://zhuiyy.github.io)
 - 🦀 I'm always working on Me-with-a-big-big-band-of-crabs[🦀](https://github.com/zhuiyy/Me-with-a-big-big-band-of-crabs).
 - 👨‍💻 I'm currently learning math/statistics in SMS PKU.
 - 📫 How to reach me: Astrology 
